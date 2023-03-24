@@ -1,7 +1,7 @@
 
 # Project Title
 
-A beautiful Cryptocurrency Task Managing app with React JS, Material UI . Loging ,signup is implemented .
+A beautiful  Task Managing app with React JS, Material UI . Loging ,signup is implemented .
 Here one can add ,update ,delete his daily tasks..
 
 
@@ -23,7 +23,7 @@ https://taskpilot.netlify.app
 Clone the project
 
 ```bash
-  https://github.com/geekychandan/Crypto-user-dashboard.git
+  https://github.com/geekychandan/task-manager-frontend.git
 ```
 
 Go to the project directory
@@ -35,13 +35,13 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  yarn
+  npm
 ```
 
 Start the server
 
 ```bash
-  rarn start
+  npm start
 ```
 ## Authors
 
